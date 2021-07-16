@@ -1,1 +1,1 @@
-# industrial_training_ML
+# Industrial_training_ML
